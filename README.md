@@ -1,0 +1,3 @@
+This is a computer-scientific analysis of the four-pillar puzzle at the beginning of the chapter "Sanctuary of the Scion" in Tomb Raider Anniversary. Here we're not just solving the initial state encountered in the game, we're going above and beyond to answer these very pressing questions:
+
+How many different ways can we solve the puzzle? How many initial states can the puzzle have? How many unique moves could you perform? Is it always solvable no matter the initial state? If yes, can we come up with a strategy to always solve it? How many moves would you need at most to solve any state? Which state requires the most moves to solve? What is the distribution of the number of moves required per state?
